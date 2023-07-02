@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tiara Fitriyani</h1>
-<h3 align="center">A passionate learner about business and Data Science</h3>
+<h3 align="center">A passionate learner about Business and Data Science</h3>
 
 ![alt text](programming.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarafits&label=Profile%20views&color=0e75b6&style=flat" alt="rarafits" /> </p>
 
-- 🌱 I’m currently learning **Data Science Bootcamp in Dibimbing**
+🌱 I’m currently learning **Data Science at Dibimbing**
 
-- 📫 How to reach me **rarafits19@gmail.com**
+📫 How to reach me **rarafits19@gmail.com**
 
-- ⚡ Fun fact **I love eating and sports! :D**
+⚡ Fun fact **I love eating and sports! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
