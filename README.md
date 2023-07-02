@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiara Fitriyani</h1>
 <h3 align="center">A passionate learner about business and Data Science</h3>
+<img align="right" alt="coding" width="400" scr="https://blog.amp.dev/2020/04/24/introducing-code-fi-the-amp-code-from-home-music-mix/![image](https://github.com/rarafits/rarafits.github.io/assets/138399667/23e08913-3b58-4484-a5d1-7ec12635d5d6)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarafits&label=Profile%20views&color=0e75b6&style=flat" alt="rarafits" /> </p>
 
