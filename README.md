@@ -1,10 +1,9 @@
 ![MASTERHEAD](Welcome!.mov)
+
 <h1 align="center">Hi 👋, I'm Tiara Fitriyani</h1>
 <h3 align="center">A passionate learner about Business and Data Science</h3>
 
 <img src="programming.gif" align="right" width="400px"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rarafits&label=Profile%20views&color=0e75b6&style=flat" alt="rarafits" /> </p>
 
 🌱 I’m currently learning **Data Science at Dibimbing**
 
